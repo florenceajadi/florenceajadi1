@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/florenceajadi/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/florenceajadi/florenceajadi1/azure-network-protocols)
+  - [Network Files Shares and Permissions](https://github.com/florenceajadi/florenceajadi1/network-files-shares-permissions)
 
 <h2>📱Connect with me:</h2>
 
