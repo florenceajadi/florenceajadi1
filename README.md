@@ -15,6 +15,7 @@
   - [Resetting User Pswds and Creating Groups in Active Directory Users and Computers](https://github.com/florenceajadi/resetting-pswds)
   - [Creating and Linking Group Policy Objects](https://github.com/florenceajadi/creating-and-linking-gpos)
   - [Creating Non-Inheriting OUs for GPO Testing / Troubleshooting](https://github.com/florenceajadi/noninheriting-and-troubleshooting)
+  - [Deploying A Dekstop Background To Your Domain With a GPO](https://github.com/florenceajadi/deploying-with-gpo)
 
 <h2>📱Connect with me:</h2>
 
