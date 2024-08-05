@@ -14,6 +14,7 @@
   - <b>Active Directory </b>
   - [Resetting User Pswds and Creating Groups in Active Directory Users and Computers](https://github.com/florenceajadi/resetting-pswds)
   - [Creating and Linking Group Policy Objects](https://github.com/florenceajadi/creating-and-linking-gpos)
+  - [Creating Non-Inheriting OUs for GPO Testing / Troubleshooting](https://github.com/florenceajadi/noninheriting-and-troubleshooting)
 
 <h2>📱Connect with me:</h2>
 
