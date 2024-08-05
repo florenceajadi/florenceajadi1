@@ -12,7 +12,8 @@
   - [Network Files Shares and Permissions](https://github.com/florenceajadi/network-files-shares-permissions)
 
   - <b>Active Directory </b>
-  - [Resetting User Pswds in Active Directory Users and Computers](https://github.com/florenceajadi/resetting-pswds)
+  - [Resetting User Pswds and Creating Groups in Active Directory Users and Computers](https://github.com/florenceajadi/resetting-pswds)
+  - [Creating and Linking Group Policy Objects](https://github.com/florenceajadi/creating-and-linking-gpos)
 
 <h2>📱Connect with me:</h2>
 
