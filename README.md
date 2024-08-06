@@ -17,6 +17,7 @@
   - [Creating Non-Inheriting OUs for GPO Testing / Troubleshooting](https://github.com/florenceajadi/noninheriting-and-troubleshooting)
   - [Deploying A Dekstop Background To Your Domain With a GPO](https://github.com/florenceajadi/deploying-with-gpo)
   - [Setting Up A Logon Banner](https://github.com/florenceajadi/logon-banner)
+  - [Deploying Software With Group Policy](https://github.com/florenceajadi/deploying-software-with-group-policy)
 
 <h2>📱Connect with me:</h2>
 
