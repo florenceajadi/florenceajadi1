@@ -16,6 +16,7 @@
   - [Creating and Linking Group Policy Objects](https://github.com/florenceajadi/creating-and-linking-gpos)
   - [Creating Non-Inheriting OUs for GPO Testing / Troubleshooting](https://github.com/florenceajadi/noninheriting-and-troubleshooting)
   - [Deploying A Dekstop Background To Your Domain With a GPO](https://github.com/florenceajadi/deploying-with-gpo)
+  - [Setting Up A Logon Banner](https://github.com/florenceajadi/logon-banner)
 
 <h2>📱Connect with me:</h2>
 
