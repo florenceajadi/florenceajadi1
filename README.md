@@ -18,6 +18,7 @@
   - [Deploying A Dekstop Background To Your Domain With a GPO](https://github.com/florenceajadi/deploying-with-gpo)
   - [Setting Up A Logon Banner](https://github.com/florenceajadi/logon-banner)
   - [Deploying Software With Group Policy](https://github.com/florenceajadi/deploying-software-with-group-policy)
+  - [Configure Roaming Profiles for User Accounts](https://github.com/florenceajadi/configuring-user-accounts)
 
 <h2>📱Connect with me:</h2>
 
