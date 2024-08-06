@@ -19,6 +19,7 @@
   - [Setting Up A Logon Banner](https://github.com/florenceajadi/logon-banner)
   - [Deploying Software With Group Policy](https://github.com/florenceajadi/deploying-software-with-group-policy)
   - [Configure Roaming Profiles for User Accounts](https://github.com/florenceajadi/configuring-user-accounts)
+  - [Automatically Map Network Share Drives With Group Policy](https://github.com/florenceajadi/map-share-drives-with-group-policy)
 
 <h2>📱Connect with me:</h2>
 
