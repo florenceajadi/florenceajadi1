@@ -20,6 +20,7 @@
   - [Deploying Software With Group Policy](https://github.com/florenceajadi/deploying-software-with-group-policy)
   - [Configure Roaming Profiles for User Accounts](https://github.com/florenceajadi/configuring-user-accounts)
   - [Automatically Map Network Share Drives With Group Policy](https://github.com/florenceajadi/map-share-drives-with-group-policy)
+  - [Configuring Domain Pswd and Account Lockout Policies With Group Policy](https://github.com/florenceajadi/domain-pswds-and-account-lockout)
 
 <h2>📱Connect with me:</h2>
 
