@@ -21,6 +21,7 @@
   - [Configure Roaming Profiles for User Accounts](https://github.com/florenceajadi/configuring-user-accounts)
   - [Automatically Map Network Share Drives With Group Policy](https://github.com/florenceajadi/map-share-drives-with-group-policy)
   - [Configuring Domain Pswd and Account Lockout Policies With Group Policy](https://github.com/florenceajadi/domain-pswds-and-account-lockout)
+  - [Deploying Fine Grained Pswd Policies](https://github.com/florenceajadi/deploying-fine-grained-pswd-policies)
 
 <h2>📱Connect with me:</h2>
 
